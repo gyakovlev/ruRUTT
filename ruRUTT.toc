@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: ruRUTT |cff3300fffix|r 
+## Author: Monolit
+## Version: 0.71
+## Notes: tooltip fixes for RuRu localization (inspired by snt_rufix, original code by Don Kaban)
+## Name: ruRu Tooltip
+
+tooltip.lua
+
